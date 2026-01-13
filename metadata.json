@@ -1,0 +1,5 @@
+{
+  "name": "SecureVault",
+  "description": "A cross-platform, secure password manager with AES-256 encryption, AI-powered security monitoring, and secure note storage.",
+  "requestFramePermissions": []
+}
